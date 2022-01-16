@@ -21,3 +21,23 @@
 21. (ls -la) = to show the all files (visible + hidden)
 22. (git touch [file_name].gitignore) = it's a ignore file
 23. (notepad [file_name].gitignore) = to open git_ignore file in notepade
+24. (git branch) = to show the branches.
+25. (git branch [branch_name]) = to create a new branch
+26. (git pull)
+27. (git merge [branch_name]) = to merge with main/master
+28. (git branch -d [branch_name]) = to delete a branch from local repository
+29. (git push origin --delete [branch_name] = to delete a branch from remote
+
+
+
+
+
+
+
+
+
+
+
+git remote add origin https://github.com/maruf3535/First_repository.git
+git branch -M main
+git push -u origin main
