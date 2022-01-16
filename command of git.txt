@@ -4,3 +4,7 @@
 4. (git add .) = add all file in stage.
 5. (git commit -m "Version 1")
 6. (git log) = to show who changed the file.
+7. (git config --global user.name "maruf3535") = to set the user_name
+8. (git config --global user.email "marufrafsan677@gmail.com") = to set the user_email
+9. (git config --global user.name) = to show the user_name
+10. (git config --global user.email) = to show the user_email
